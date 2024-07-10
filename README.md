@@ -1,0 +1,2 @@
+# Comparison ARIMA, SVR, and, LSTM algorithm, for predict LQ45 Indonesian Stock Market
+conducted a comparison of 3 algorithms, namely AutoRegressive Integrated Moving Average (ARIMA), Support Vector Regression (SVR), and Long Short Term Memory (LSTM). This aims to find out which algorithm is better than the third algorithm. it also compares between traditional statistical models (ARIMA), Machine Learning (SVR), Deep Learning (LSTM).
